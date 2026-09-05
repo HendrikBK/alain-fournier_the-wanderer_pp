@@ -22,7 +22,7 @@ FRANÇOISE DELISLE
 
 Boston and New York
 HOUGHTON MIFFLIN COMPANY
-The Riverside Press Cambridge[**F1: decorative font]
+The Riverside Press Cambridge
 1928
 */
 
@@ -35,7 +35,7 @@ COPYRIGHT, 1928, BY HOUGHTON MIFFLIN COMPANY
 ALL RIGHTS RESERVED
 
 
-The Riverside Press[**F1: decorative font ]
+The Riverside Press
 CAMBRIDGE · MASSACHUSETTS
 PRINTED IN THE U.S.A.
 */
@@ -50,7 +50,7 @@ CONTENTS
 <sc>Introduction, by Havelock Ellis</sc>      vii
 
 
-PART [** I]
+PART I
 
 I. <sc>The Boarder</sc>      3
 
@@ -336,7 +336,7 @@ Lakanal, delightfully situated to the north of Paris, with
 the idea of preparing for the École Normale Supérieure.
 Here his independent temper quickly manifested itself
 in revolt against various antiquated regulations and
-humilating[**P1: humiliating] obligations; he placed himself at the head of
+humiliating obligations; he placed himself at the head of
 a group of rebels and circulated revolutionary petitions
 aimed at the scholastic officials. Jacques Rivière, who
 from Bordeaux had entered the Lycée at the same age
@@ -1207,7 +1207,7 @@ AFTER FOUR O’CLOCK
 
 Until then I had never loafed about in the streets with
 the other village boys. An affection of the hip from
-which I had suffered up to this year 189..[**Each dot represents a missing number] had made me
+which I had suffered up to this year 189.. had made me
 nervous and wretched. I still see myself chasing the
 nimble schoolboys in the alleys round our home, hopping
 wretchedly on one leg....
@@ -1541,14 +1541,14 @@ at nightfall. But to-day, out of the window and between
 the stripped trees, I can see the tall grey wall of the
 farmyard, the entrance gate and then, through gaps in
 the hedge, a strip of road, white with frost, parallel to
-the stream and leading to the station road[** Station Road elsewhere].
+the stream and leading to the Station Road.
 
 Nothing moves yet in that clear wintry landscape.
 Nothing has yet changed.
 
 In the classroom M. Seurel has almost finished
 writing out the second problem. Generally he set down
-three. If he only set two to-day.... He[** or “to-day ... he”] would go back
+three. If he only set two to-day ... he would go back
 to his desk and notice the absence of Meaulnes. He
 would send two boys to look for him in the village and
 they would find him before the mare was harnessed....
@@ -4522,7 +4522,7 @@ entirely agreed with him.
 
 Everywhere on the playground, in the absence of M.
 Seurel, the fight went on: the smaller boys had now
-climbed on each other’s back[**backs?]; they were running and
+climbed on each other’s backs; they were running and
 tumbling about even before they received the enemy’s
 charge.... Soon, in the middle of the playground, there
 remained only one savage whirling group out of which
@@ -4798,7 +4798,7 @@ readiness for the day when I shall be again within a
 hairbreadth of hell, as I have already been.... Give me
 your word that you will come to me if ever you hear me
 call--when I shall call like this--(he uttered a queer
-call: Hou-ou!)...[**3-dot ellipsis after !) OK? End of sentence ellipsis] You, Meaulnes swear to it first.’
+call: Hou-ou!)... You, Meaulnes swear to it first.’
 
 And we swore to it because, though we were only
 children, all that was serious and solemn beyond reason
@@ -5992,7 +5992,7 @@ letter from Admiral Meaulnes.
 
 /#
 /*
-<i>June, 189..[**? Redacted number]</i>
+<i>June, 189..</i>
 
 <sc>My dear Chap</sc>,
 */
@@ -6254,7 +6254,7 @@ face to the level of the clear water. But we were not all
 used to these peasant’s ways. Several of us, myself included,
 never managed to quench our thirst: some because
 they did not like water; others because their
-throats contracted at the fear of swallowing a wood-*louse[**‘woodlice’ on 212.png];
+throats contracted at the fear of swallowing a woodlouse;
 others again, deceived by the transparency of the
 still water and unable to estimate the exact distance to
 its surface, pushed half of their faces in with their lips
@@ -7721,7 +7721,7 @@ around, but he saw no one. He was red with anger.
 
 ‘I would like to know,’ he called out, ‘who tied him up
 like this! And left his saddle on all day! And who dared
-to saddle so old a horse, scarcely fit for the lightest gig.[**! or ? ?]’
+to saddle so old a horse, scarcely fit for the lightest gig.’
 
 Delouche was about to say something--to take the
 blame upon himself.
@@ -7736,7 +7736,7 @@ M. de Galais, who so far had said nothing, made the
 mistake of attempting to come out of his reserve. He
 stammered:
 
-‘Naval officers are accustomed to ... My[**to.... My? / to ... my? 2 incomplete sentences or pause in 1?] horse.’
+‘Naval officers are accustomed to ... my horse.’
 
 ‘Oh! He’s yours, is he?’ said Meaulnes, a little calmer,
 but very red, turning his head towards the old man.
@@ -8349,7 +8349,7 @@ This uncertainty lasted on next day, a Saturday. In
 the evening I made haste to get my cape, my stick, a
 piece of bread to eat on the way, and reached the Sand
 Pit to find everything closed up there just as the day
-before.... A little light on the first floor; but not[**no?] noise,
+before.... A little light on the first floor; but no noise,
 not a movement.... At the farmhouse, however, I now
 noticed, from the yard, the front door left open, the
 fire burning in the great kitchen, and I heard a noise of
@@ -9122,7 +9122,7 @@ studies in literature, sum-books, goodness knows
 what!... Greatly moved rather than curious, I began
 to rummage amongst all this, reading over again the
 dictations I still knew by heart, as we had recopied them
-so many times: ‘The Aqueduct,’ by Rousseau,[**; as after next author on 308.png?] ‘An
+so many times: ‘The Aqueduct,’ by Rousseau; ‘An
 Adventure in Calabria,’ by P. L. Courier; ‘A Letter
 of George Sand to her Son.’
 
@@ -9132,7 +9132,7 @@ school, the pupils never taking them home. It was a
 green exercise-book, faded at the edges. The name of
 the pupil, Augustin Meaulnes, was written on the cover
 in a beautiful round hand. I opened it. By the date of
-the tests, April, 189..[**.. OK for redacted figures? F2: Or . for redacted figure followed by end of sentence period] I realized that Meaulnes had
+the tests, April, 189.. I realized that Meaulnes had
 started it only a few days before leaving Sainte-Agathe.
 The first pages were kept with religious care, as was the
 rule when one set work down in the composition book.
@@ -9738,7 +9738,7 @@ could ruin yourself like this!’
 Officers were drinking near him. One of them was
 noisily telling a story about a woman which could be
 heard in snatches: ‘I said to her ... you ought to know
-me ...[**me.... ?] I play with your husband every evening!’ The
+me ... I play with your husband every evening!’ The
 others laughed and turning round spat behind the
 benches. Meaulnes, pale and dusty, watched them as
 a beggar might. He imagined them holding Valentine

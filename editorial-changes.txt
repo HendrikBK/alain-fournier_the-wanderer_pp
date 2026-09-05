@@ -1,5 +1,27 @@
+Pg. v
+    Add “I” for Part I in ToC
+
+Pg. xiii
+    humilating -> humiliating
+
+Pg. 24
+    station road -> Station Road
+    He would go back -> he would go back
+
+Pg. 124
+    other’s back -> other’s backs
+
 Pg. 137
     Add closing quote after "[...] have fired.’"
+
+Pg 231
+    My horse -> my horse
+
+Pg. 251
+    not noise -> no noise
+
+Pg. 277
+    Change comma to semicolon after “Rousseau”
 
 Pg. 291
     Change double quote to single quote in ‘You must drink, dear little Valentine.”
