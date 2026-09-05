@@ -1033,9 +1033,6 @@ corporal, losing himself in theory....
 The christening bells stopped suddenly, like festive
 chimes at a mistaken time and place. Boujardon and
 his men, rifles slung over their shoulders, dragged off the
-
-[Footnote 1: French firemen carry rifles during drill, although the custom
-is now dying out in towns.]
 fire engine at a slow trot, and I saw them disappear at
 the first turning, followed by four silent urchins, crushing
 under their heavy boots the twigs on the frozen road,
@@ -1149,7 +1146,7 @@ of the dining-room.
 
 He was a tall boy of seventeen, or thereabout. At
 first, as night was falling, I saw only his peasant felt
-hat, pushed to the back of his head, and his black overall[1]
+hat, pushed to the back of his head, and his black overall[2]
 tightly belted in the fashion of schoolboys. I could
 see, too, that he was smiling....
 
@@ -1158,15 +1155,6 @@ an explanation: 'Aren't you coming into the play-*ground?'
 he asked.
 
 I hesitated for a moment. Then, as Millie did not
-
-[Footnote 1: This is the traditional black overall worn by the French school-*children
-in Alain-Fournier's youth and still to be seen in villages,
-though it is not so much worn in towns. This detail, and others so
-typically French, must not deceive the reader as to the age of the
-schoolboys in the book. It should be borne in mind that most of
-the main characters in the book, amongst the boys, are youths
-whose ages vary from between sixteen to past eighteen. It was the
-custom for boys of that age to wear the black overall.]
 keep me back, I took up my cap and went towards him.
 We left by the kitchen door and went into the yard
 under the shelter where darkness was already gathering.
@@ -2925,59 +2913,13 @@ yawned, quietly sniffed, and then turning his back went
 away with the pole on his shoulder, saying: 'Come on!
 It's time to dress for dinner.'
 
-The bohemian[1] followed him, but as he passed in
+The bohemian[3] followed him, but as he passed in
 front of the alcove:
 
 'Sir Sleeper!' said he, with courtly bows and a clown's
-
-[Footnote 1: In French these '<i>bohémiens</i>' do not mean gipsies, and are not
-of gipsy race. Alain-Fournier sometimes calls them '<i>comédiens</i>.'
-They are strolling players such as used to come to my own little
-native town and pitch their tent on the church square. They
-travel in caravans at any time during the year and not only for
-the town fairs, and often give very good shows and plays, going
-from town to town where there are no theatres. As a child it was
-thus I saw Musset's <i>On ne Badine pas avec l'Amour</i>, Labiche's <i>Le
-Voyage de Monsieur Perrichon</i>, and many of Molière's plays, all]*
 diction, 'it's up to you now to wake up and dress like
 a marquis even though you're only a pot-boy like me,
 and you will descend to the fancy-dress ball, since that
-
-*[Footnote: acted under canvas, often in the most primitive kind of tent.
-Molière and his 'Illustré Théâtre' were a troupe of that kind.
-
-At the yearly fair these strolling players may often be just a
-man and his wife, or a small party travelling with a few performing
-animals. The word <i>bohémien</i> is often applied to such actors
-and showmen with contempt, as in English is the word <i>gipsy</i>.
-Yet again it is used indifferently with <i>saltimbanque</i> for real gipsies
-who travel in caravans and make a trade of wicker chairs,
-brooms, etc.
-
-But the grand style of <i>bohémiens</i>, the strolling actors travelling
-in caravans, are looked upon as wonderful people surrounded with
-glamour. They used to fascinate me as a child, and all the town
-was astir when they came, most people feeling the same fascination.
-After the play we children would go prowling round their caravans,
-a land of mystery. Yet, however welcome these people were
-in our little town--where they brought joy and mirth--one
-knew that at the back of people's minds was a certain amount of
-mistrust. One felt that people were purposely over-polite, displaying
-an exaggerated courtesy, the result of their unconscious
-distinction between the honest, nice, and gentlemanly <i>bohémiens</i>
-and those who might not be. And indeed one often went to school
-(as I did) with the other type of <i>bohémien</i>: children of sellers of
-wicker chairs or small peddlers, etc.
-
-From all this it is clear that to translate the word <i>bohémien</i> by
-<i>gipsy</i> is wrong when applied to people not of gipsy race, yet
-<i>gipsies</i> must be used whenever one wants to show contempt or
-mistrust. Of course the word can never mean here the Bohemian
-of Bohemian life, of Murger and Montmartre's style; it means
-these strolling comedians, still a part of French life for people of
-Alain-Fournier's generation, though now that most little towns
-boast a theatre these troupes have a tendency to disappear, to
-be replaced by more modern touring companies.--<i>Note by Translator.</i>]
 is the good pleasure of these little gentlemen and of
 these little ladies.'
 
@@ -4071,7 +4013,7 @@ Wind and cold, rain or snow, the impossibility of making
 any long expedition prevented Meaulnes and me
 from mentioning again the Lost Land before the end of
 the winter. There was nothing worth beginning during
-these short February days--these Thursdays[1] broken
+these short February days--these Thursdays[4] broken
 up by squalls which invariably ended, about five, in a
 dismal freezing downpour.
 
@@ -4088,8 +4030,6 @@ and from the playground to the dining-room.
 On Thursday mornings each of us settled at the master's
 desk in one of the two classrooms to read Rousseau
 and Paul Louis Courrier whom we had dug out of the
-
-[Footnote 1: Thursday is, everywhere in France, a school holiday.]
 cupboards from amongst English textbooks and copybooks
 of carefully transcribed music. In the afternoon
 some caller or other caused us to leave the house and we
@@ -4550,7 +4490,7 @@ soon observed to be running the games.
 Of all the new plays which the bohemian introduced
 amongst us that morning, I remember only the most
 violent: a sort of tournament where the bigger boys were
-horses with the younger ones hoisted on their shoulders.[1]
+horses with the younger ones hoisted on their shoulders.[5]
 
 Divided into two camps at either end of the playground,
 they charged each other, seeking to upset the
@@ -4563,14 +4503,6 @@ fellows, half dismounted, were kept up by the horse
 gripping their legs; they scrambled up again and
 charged into the fray. The slim cavalier with the bandaged
 head, mounted on Delage, who had lanky limbs,
-
-[Footnote 1: Nowhere but in France would this game be played by boys
-over twelve or thirteen. This is another detail so typically French
-that may mislead the reader as to the ages of these boys. As will
-be seen in a subsequent chapter, Delouche is now seventeen and
-Meaulnes eighteen. Such games, until recently, took in French
-school life the place of football and were apt to be played with the
-same violence.]
 red hair, and flapping ears, urged on the two rival
 troops and steered his mount adroitly, shouting with
 laughter. At first Augustin, in a bad temper, watched
@@ -6132,7 +6064,7 @@ my having a chance to see him.
 I received the last of the three letters I ever received
 from Meaulnes, on my return to school, at the end of
 November, while I was working with melancholy zeal
-for my final Matriculation,[1] hoping in the following year
+for my final Matriculation,[6] hoping in the following year
 to secure a teacher's post without going through
 Bourges Training College.
 
@@ -6156,10 +6088,6 @@ she. "I am a little late," she would simply say. And all
 suffering and all madness vanish away. We enter our
 home. Her furs are cold, her veil damp; she brings in
 with her a flavour of the outside mist; and as she draws
-
-[Footnote 1: No accurate translation can be found for these examinations,
-as every country has its own system. The French system is complicated
-and it is unnecessary to give here elaborate explanations.]
 
 near the fire, I see the flaxen fairness of her hair and the
 soft outlines of her beautiful face bent towards the
@@ -10098,3 +10026,82 @@ her for new adventures.
 
 
 THE END
+
+
+
+
+
+
+FOOTNOTES:
+
+
+[Footnote 1: French firemen carry rifles during drill, although the custom
+is now dying out in towns.]
+
+[Footnote 2: This is the traditional black overall worn by the French school-*children
+in Alain-Fournier's youth and still to be seen in villages,
+though it is not so much worn in towns. This detail, and others so
+typically French, must not deceive the reader as to the age of the
+schoolboys in the book. It should be borne in mind that most of
+the main characters in the book, amongst the boys, are youths
+whose ages vary from between sixteen to past eighteen. It was the
+custom for boys of that age to wear the black overall.]
+
+[Footnote 3: In French these '<i>bohémiens</i>' do not mean gipsies, and are not
+of gipsy race. Alain-Fournier sometimes calls them '<i>comédiens</i>.'
+They are strolling players such as used to come to my own little
+native town and pitch their tent on the church square. They
+travel in caravans at any time during the year and not only for
+the town fairs, and often give very good shows and plays, going
+from town to town where there are no theatres. As a child it was
+thus I saw Musset's <i>On ne Badine pas avec l'Amour</i>, Labiche's <i>Le
+Voyage de Monsieur Perrichon</i>, and many of Molière's plays, all
+acted under canvas, often in the most primitive kind of tent.
+Molière and his 'Illustré Théâtre' were a troupe of that kind.
+
+At the yearly fair these strolling players may often be just a
+man and his wife, or a small party travelling with a few performing
+animals. The word <i>bohémien</i> is often applied to such actors
+and showmen with contempt, as in English is the word <i>gipsy</i>.
+Yet again it is used indifferently with <i>saltimbanque</i> for real gipsies
+who travel in caravans and make a trade of wicker chairs,
+brooms, etc.
+
+But the grand style of <i>bohémiens</i>, the strolling actors travelling
+in caravans, are looked upon as wonderful people surrounded with
+glamour. They used to fascinate me as a child, and all the town
+was astir when they came, most people feeling the same fascination.
+After the play we children would go prowling round their caravans,
+a land of mystery. Yet, however welcome these people were
+in our little town--where they brought joy and mirth--one
+knew that at the back of people's minds was a certain amount of
+mistrust. One felt that people were purposely over-polite, displaying
+an exaggerated courtesy, the result of their unconscious
+distinction between the honest, nice, and gentlemanly <i>bohémiens</i>
+and those who might not be. And indeed one often went to school
+(as I did) with the other type of <i>bohémien</i>: children of sellers of
+wicker chairs or small peddlers, etc.
+
+From all this it is clear that to translate the word <i>bohémien</i> by
+<i>gipsy</i> is wrong when applied to people not of gipsy race, yet
+<i>gipsies</i> must be used whenever one wants to show contempt or
+mistrust. Of course the word can never mean here the Bohemian
+of Bohemian life, of Murger and Montmartre's style; it means
+these strolling comedians, still a part of French life for people of
+Alain-Fournier's generation, though now that most little towns
+boast a theatre these troupes have a tendency to disappear, to
+be replaced by more modern touring companies.--<i>Note by Translator.</i>]
+
+[Footnote 4: Thursday is, everywhere in France, a school holiday.]
+
+[Footnote 5: Nowhere but in France would this game be played by boys
+over twelve or thirteen. This is another detail so typically French
+that may mislead the reader as to the ages of these boys. As will
+be seen in a subsequent chapter, Delouche is now seventeen and
+Meaulnes eighteen. Such games, until recently, took in French
+school life the place of football and were apt to be played with the
+same violence.]
+
+[Footnote 6: No accurate translation can be found for these examinations,
+as every country has its own system. The French system is complicated
+and it is unnecessary to give here elaborate explanations.]
