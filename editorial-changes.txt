@@ -25,3 +25,9 @@ Pg. 277
 
 Pg. 291
     Change double quote to single quote in ‘You must drink, dear little Valentine.”
+
+Normalized words
+
+country-side [1] | countryside [14] -> countryside
+homecoming [1] | home-coming [2] -> home-coming
+school-house [1] | schoolhouse [3] -> schoolhouse
