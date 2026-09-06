@@ -209,8 +209,8 @@ Thialet has written, ‘remains in my mind and my heart
 as at once the most beautiful memory of a whole epoch
 that no one has understood and the most impassioned
 hope for the novel of to-morrow.’ In Holland, a little
-more afield but again on a soil we can well believe con-*
-*genial, Dirk Coster, a notable Dutch author of to-day,
+more afield but again on a soil we can well believe congenial,
+Dirk Coster, a notable Dutch author of to-day,
 lately remarked to M. Frédéric Lefèvre in the course
 of an interview: ‘There is a beautiful novel--I do
 not know what you think of it in France but everyone
@@ -293,8 +293,8 @@ be distributed as school prizes. These books Henri and
 Isabelle carried up to the attic to devour greedily beforehand.
 It was in this way probably that he first read
 <i>Robinson Crusoe</i>, a book that always meant much for
-him, though at first merely as a story of actual adven-*
-*ture, and this was the beginning of his attraction to
+him, though at first merely as a story of actual adventure,
+and this was the beginning of his attraction to
 England, which for him was the land of adventure. Naturally
 it was towards the ocean that his thoughts were
 directed (it was by no accident, as Pilon remarks, that
@@ -365,7 +365,7 @@ Young Fournier seems to have discovered nothing of
 literature or art at Épineuil, and at Lakanal the figures
 that came before him--Racine, Rousseau, Chateaubriand,
 even Flaubert--had nothing to say to his heart,
-for the great masters presented in a scholastic frame-*work
+for the great masters presented in a scholastic framework
 can scarcely make any strong appeal to the young
 mind. But one day a professor read to the class Henri de
 Régnier’s <i>Tel qu’en Songe</i>. A new note struck both boys
@@ -404,8 +404,8 @@ the young poetic natures of the end of the last century.
 We are not surprised to find the youthful Fournier, who
 had not yet discovered Mallarmé or Verlaine or Rimbaud
 or even Baudelaire, reading with congenial enthusiasm
-Henri de Régnier and Maeterlinck and Viélé-*
-*Griffin, but more especially Laforgue and Jammes.
+Henri de Régnier and Maeterlinck and Viélé-Griffin,
+but more especially Laforgue and Jammes.
 These two really embodied aspects of his own temperament,
 and if at this time they may seem to have excited
 a certain degree of formative influence over him, while
@@ -660,8 +660,8 @@ which Péguy carried to so high a point Fournier was entirely
 at one. Péguy was not without influence on <i>Le
 Grand Meaulnes</i> and, during Fournier’s last years, seems
 to have been his nearest friend. Rivière’s sympathy with
-Péguy was only partial, and at this period the corre-*
-*spondence between Fournier and Rivière begins to
+Péguy was only partial, and at this period the correspondence
+between Fournier and Rivière begins to
 languish. The old personal ties always subsisted, but
 the profound temperamental difference was becoming
 more clearly revealed. Rivière admits that Fournier’s
@@ -874,7 +874,7 @@ moments, had the strength in this infamous city to
 create <i>my life</i>, like a marvellous fairy-tale.’
 
 In every poet--in the heart of everyone who shares
-in the poet’s spirit--there is a certain restless home-*sickness
+in the poet’s spirit--there is a certain restless homesickness
 of the soul for which each seeks to find his own
 expression; Poe, for instance, in <i>To Helen</i>, Shelley over
 and over again, and once at least in the record of a
@@ -1095,8 +1095,8 @@ and mysterious manner which puzzled us.
 They had both driven from La Ferté d’Angillon, fourteen
 kilometres from Sainte-Agathe. Herself a widow--and
 very rich, as she gave us to understand--she had
-lost the younger of her two children, a boy called An-*
-*toine, who had suddenly died one evening, on returning
+lost the younger of her two children, a boy called Antoine,
+who had suddenly died one evening, on returning
 from school, after bathing with his brother in a dirty
 pond. She had decided to let Augustin, the elder boy,
 board with us, that he might take the Higher Course.
@@ -1151,7 +1151,7 @@ tightly belted in the fashion of schoolboys. I could
 see, too, that he was smiling....
 
 He saw me, and before any one had had time to demand
-an explanation: ‘Aren’t you coming into the play-*ground?’
+an explanation: ‘Aren’t you coming into the playground?’
 he asked.
 
 I hesitated for a moment. Then, as Millie did not
@@ -1186,8 +1186,8 @@ quickly drew me back.
 A moment later, as she came out of the door with
 Meaulnes’ mother after having discussed and settled the
 boarding fees, my mother saw two sheaves of red-and-white
-stars rising up under the shelter, hissing like bel-*
-*lows. For a moment’s space she caught a glimpse of me
+stars rising up under the shelter, hissing like bellows.
+For a moment’s space she caught a glimpse of me
 as I stood in this magic light, holding by the hand the
 tall strange boy and showing no fear....
 
@@ -1226,7 +1226,7 @@ was in the habit of carrying into the dining-room grate
 the fire remaining in the classroom stove; and, little by
 little, the last boys who had lingered behind left the
 chilled building, thick with clouds of smoke. There were
-still a few games, some galloping races in the play-*ground,
+still a few games, some galloping races in the playground,
 then night came; the two pupils who had swept
 the classroom fetched their hoods and cloaks, and with
 their baskets under their arms went away quickly,
@@ -1470,7 +1470,7 @@ said. Seeing him thus lost in thought, looking as though
 across leagues of fog at these quiet folk at their work, I
 was reminded suddenly of that picture in ‘Robinson
 Crusoe,’ where the young Englishman is seen on the eve
-of his great adventure ‘haunting the shop of a basket-*maker.’...
+of his great adventure ‘haunting the shop of a basket-maker.’...
 
 And I have often thought of it since.
 
@@ -1877,7 +1877,7 @@ shadows before the dining-room door.
 
 Of that dinner I recall only a great silence and a
 great distress. Everything was icy; the oilcloth without
-a tablecloth, the cold wine in the glasses, the red flag-*stones
+a tablecloth, the cold wine in the glasses, the red flagstones
 under our feet. It had been decided to put no
 questions to the truant so as not to rouse him to revolt.
 And he availed himself of that truce to say not a word.
@@ -2422,8 +2422,8 @@ She waited, basin in hand, looking at him.
 can’t see your way.’
 
 There was a moment’s silence, during which Meaulnes
-stood looking at walls papered with pages out of illus-*
-*trated papers, as they are in inns, and at the table on
+stood looking at walls papered with pages out of illustrated
+papers, as they are in inns, and at the table on
 which lay a man’s hat.
 
 ‘He’s not in, the boss,’ he said, sitting down.
@@ -3118,8 +3118,8 @@ faces, the same sharp eyes under bushy eyebrows, the
 same narrow ties like shoestrings. But it was easy to see
 that these had never voyaged farther than the other end
 of the parish, and if they had been tossed and beaten by
-winds and storms it had occurred on that rough yet un-*
-*dangerous voyage in cutting the furrow to the field end
+winds and storms it had occurred on that rough yet undangerous
+voyage in cutting the furrow to the field end
 and guiding back the plough. Few women were to be
 seen; only some old peasant women with round faces as
 wrinkled as apples under their goffered caps.
@@ -3765,8 +3765,8 @@ sing. As he went off, Meaulnes heard their cabaret songs
 fill the air of the park which for two days had held so
 much grace and so much wonder. And it proved the
 beginning of confusion and chaos. He passed close to
-the fish-pond into which he had looked, that very morn-*
-*ing, at his own reflection. How everything seemed
+the fish-pond into which he had looked, that very morning,
+at his own reflection. How everything seemed
 changed already ... with this song, sung in chorus,
 which reached him in snatches:
 
@@ -3804,8 +3804,8 @@ I am going away. I no longer wish to live. May Yvonne
 forgive me for not saying good-bye to her, but she
 could not do anything for me....’
 
-It was the end of the candle, the flame of which gut-*
-*tered, flickered a moment and went out. Meaulnes returned
+It was the end of the candle, the flame of which guttered,
+flickered a moment and went out. Meaulnes returned
 to his own room and shut the door. In spite of
 the darkness he made out all the things which he had
 tidied, in full daylight and in full happiness, a few hours
@@ -4155,8 +4155,8 @@ and startled air of one who has surprised the secret
 of a mystery.
 
 ‘I was in my yard which faces the Cross-Roads. I
-was going to lock up the goats’ shed. Suddenly, stand-*
-*ing there in the snow, what d’ye think I saw? Two tall
+was going to lock up the goats’ shed. Suddenly, standing
+there in the snow, what d’ye think I saw? Two tall
 lads as looked posted like sentries or on the watch for
 something. They were standing by the cross. I went
 towards them, just two steps.--Lord! there be these
@@ -4188,8 +4188,8 @@ floor and exclaimed: ‘We must go and see!’
 He opened the door and we followed him, M. Seurel,
 M. Pasquier, and myself.
 
-Millie, quite herself again after the attackers’ depar-*
-*ture, and, like all orderly and careful people, very uninquisitive
+Millie, quite herself again after the attackers’ departure,
+and, like all orderly and careful people, very uninquisitive
 by nature, said: ‘Well, go if you like, but close
 the door and take the key. As for me, I am going to
 bed; I’ll leave the lamp burning.’
@@ -4472,14 +4472,14 @@ head, half bald, half curly, bowed over the treasures,
 while the pale youth, serenely triumphant in the middle
 of the group, gave all necessary explanations. Meanwhile,
 seated silently at his desk and completely forsaken,
-Admiral Meaulnes had opened his rough note-*book
+Admiral Meaulnes had opened his rough notebook
 and with brow knitted was absorbed in a difficult
 problem....
 
 <tb>
 
-The ‘last quarter’ found us thus occupied. The dicta-*
-*tion was not finished and disorder reigned in the classroom.
+The ‘last quarter’ found us thus occupied. The dictation
+was not finished and disorder reigned in the classroom.
 To tell the truth, it had been recreation all the
 morning.
 
@@ -4534,8 +4534,8 @@ Lowering his head and placing his hands on his thighs,
 he called out: ‘Now for it, François!’
 
 Surprised at this sudden decision, I none the less
-jumped upon his shoulders without a moment’s hesita-*
-*tion, and in a second we were in the thick of the fray,
+jumped upon his shoulders without a moment’s hesitation,
+and in a second we were in the thick of the fray,
 while most of the combatants, scared, fled away shouting:
 ‘There’s Meaulnes! There’s Admiral Meaulnes!’
 
@@ -4883,7 +4883,7 @@ a cart with the horse apparently at full gallop. The wily
 and cowardly boy then said to himself, as he later repeated
 it to us with that unbearable thick pronunciation
 peculiar to Montluçon: ‘They’ve gone towards the
-station, but who knows if I mayn’t catch others, red-*handed,
+station, but who knows if I mayn’t catch others, red-handed,
 the other side of the village!’
 
 And he walked back towards the church in the silence
@@ -5147,8 +5147,8 @@ of the spectators. Two handy men, enticed with much
 trouble out of the audience, then dragged him by the
 feet and after tremendous efforts stood him up. And at
 each fall he uttered a little scream, each time different,
-a little unbearable scream, in which distress and satis-*
-*faction had an equal share. At the climax, perched on a
+a little unbearable scream, in which distress and satisfaction
+had an equal share. At the climax, perched on a
 scaffolding of chairs, he dropped in a very long slow fall,
 and his piercing, melancholy hoot of triumph lasted as
 long as the fall and was mingled with shrieks of fear
@@ -5177,8 +5177,8 @@ face, got up to bow and say:
 ‘Now, Ladies and Gentlemen, we beg to thank you
 for your kind attention!’
 
-But at that very moment and in the midst of the up-*
-*roar, Admiral Meaulnes, who had kept silent since the
+But at that very moment and in the midst of the uproar,
+Admiral Meaulnes, who had kept silent since the
 beginning of the dumb show, and seemed every moment
 more absorbed, hastily got up and clinging to my arm, as
 if unable to contain himself, said aloud to me: ‘Look at
@@ -5918,7 +5918,7 @@ depths of my grief. But twice I awoke during the night,
 fancying at first that I heard the creaking of the bed in
 which Meaulnes used to turn over, all of a heap, and the
 second time listening to the light steps of the hunter
-upon the watch, in the dim distance of the lumber-*rooms....
+upon the watch, in the dim distance of the lumber-rooms....
 
 
 
@@ -6144,12 +6144,12 @@ BATHING
 The bad lads of the countryside thought it a lark to
 smoke cigarettes, to put sugar and water on their hair to
 make it curl, to kiss girls from the Continuation School
-in the street, and to call out from behind a hedge, ‘Poke-*bonnet,’
+in the street, and to call out from behind a hedge, ‘Poke-bonnet,’
 to rag a passing nun. At twenty, however, bad
 lads of that kind can very well improve and become
 often most sensible fellows. The problem is graver
 when the bad lad’s appearance is wizened and old, when
-his mind is occupied with low tales of the women round-*about,
+his mind is occupied with low tales of the women roundabout,
 when he is always making stupid remarks about
 Gilberte Poquelin for the other boys to laugh. But even
 so there is still room for hope....
@@ -6279,7 +6279,7 @@ the others talk and laugh close to us, down below,
 hidden from sight in the shady path, while Delouche
 told his mannish tales.... At the top of the tall row of
 trees, evening insects were droning and could be seen
-against the clear sky, as they moved around the lace-*work
+against the clear sky, as they moved around the lacework
 of the leaves. Sometimes, one suddenly tumbled
 down, its hum fizzling out all at once.... A beautiful
 quiet summer evening!... A peaceful homecoming,
@@ -6295,7 +6295,7 @@ forsaken in the neighbourhood of Vieux-Nançay: the
 Sand Pit Manor. With his Allier accent, which shows
 affectation in rounding off some words and in shortening
 others, he related having seen, some years previously,
-in the tumble-down chapel of the old manor, a tomb-*stone
+in the tumble-down chapel of the old manor, a tombstone
 on which were carved the words:
 
 /*
@@ -6447,7 +6447,7 @@ Marie-Louise, the eldest of my cousins, though one of
 the smallest, was still in the shop, folding and putting
 away rolls of cloth and coaxing us to come and cheer her
 up. So Firmin and I with all the girls burst into the huge
-shop, under the overhead porcelain lamps, and coffee-*grinders
+shop, under the overhead porcelain lamps, and coffee-grinders
 were set turning and acrobatic stunts performed
 on the counters; sometimes Firmin brought out
 from the attics some old trombone covered with verdigris,
@@ -6607,7 +6607,7 @@ very polite and kind and obliging to me. And I am
 very fond of them. But then, what credit can there be
 in my loving them?... While, with a school teacher,
 they are apt to be rather cross and critical, don’t you
-think? There are endless tales of lost pencils, exercise-*books
+think? There are endless tales of lost pencils, exercise-books
 too dear, and of children who do not learn....
 Well, I would fight it out with them and they would
 like me nevertheless. It would be far more difficult....’
@@ -6834,8 +6834,8 @@ back to my mind, and all the stories related by the old
 clerk as he rested his elbows on the table before his rose-coloured
 drink.
 
-And I was reminded also of my fears.... After din-*
-*ner, sitting by the fire, my aunt had taken Father aside
+And I was reminded also of my fears.... After dinner,
+sitting by the fire, my aunt had taken Father aside
 to tell him ghost stories: ‘I turn round.... Ah! my dear
 Louis, what do I see? A little grey woman....’ Her head
 was known to be packed with terrifying nonsense of
@@ -7071,7 +7071,7 @@ town councillors still stood in front of a table with a
 green baize cover, on a long platform which filled the
 back of the room. And there, seated in the centre of
 the room in the mayor’s old armchair, was Meaulnes,
-busy writing, dipping his pen in an old-fashioned ink-*stand
+busy writing, dipping his pen in an old-fashioned ink-stand
 shaped like a heart. This place, which seemed
 meant for some well-to-do villager, was the room where
 Meaulnes liked to retire during the holidays, whenever
@@ -7624,8 +7624,8 @@ and once, while speaking, she gently placed her hand on
 his arm in a gesture full of trust and surrender. Why
 was Admiral Meaulnes there like a stranger, like some
 one who has not found what he was looking for and for
-whom nothing else has any interest? Three years ear-*
-*lier he might not have been able to bear this happiness
+whom nothing else has any interest? Three years earlier
+he might not have been able to bear this happiness
 without terror, without madness, perhaps. But whence
 came this emptiness, this remoteness, this powerlessness
 to be happy which now possessed him?
@@ -7759,7 +7759,7 @@ the stable and never taken out again.’
 
 Several young fellows immediately offered themselves.
 But Mademoiselle de Galais at once thanked them. Her
-face on fire and ready to burst into tears, she said good-*bye
+face on fire and ready to burst into tears, she said good-bye
 to every one and even to Meaulnes, who, utterly
 abashed, dared not look at her. She took the animal by
 the reins as one catches hold of somebody’s hand, more
@@ -8597,7 +8597,7 @@ Meaulnes’ arrival. There I read, wrote, and recalled the
 past.... Father was often away jack-fishing. Millie, in
 the drawing-room, played the piano or sewed as of old....
 In the absolute silence of the classroom torn green
-paper wreaths, jackets off prize books, clean black-*boards,
+paper wreaths, jackets off prize books, clean blackboards,
 reminded me that the year was over, that the
 prizes were given, and that everything awaited autumn,
 the new school year and fresh endeavour--and here I
@@ -9147,7 +9147,7 @@ unfinished book causing them to open. And it was thus
 I discovered writing on other sheets. After four blank
 pages it started again.
 
-It was still Meaulnes’ writing, but a hurried hand, ill-*shaped,
+It was still Meaulnes’ writing, but a hurried hand, ill-shaped,
 scarcely legible, forming small, unequal paragraphs
 separated by blank lines. In places there was
 only an unfinished sentence. Sometimes a date. From
@@ -9855,8 +9855,8 @@ married.’
 <tb>
 
 ‘This manuscript, which I began as a secret journal
-and which has become my confession, is to be the pro-*
-*perty, if I do not come back, of my friend François
+and which has become my confession, is to be the property,
+if I do not come back, of my friend François
 Seurel.’
 
 <tb>
@@ -9927,8 +9927,8 @@ There I was silent and busy when suddenly I heard
 the iron gate opening and a footfall on the gravel
 path.
 
-‘Ha! ha!’ said I to myself. ‘Here come these fel-*
-*lows sooner than I thought. And here am I, not ready
+‘Ha! ha!’ said I to myself. ‘Here come these fellows
+sooner than I thought. And here am I, not ready
 yet!...’
 
 But the man who came into the courtyard was unknown
@@ -9999,7 +9999,7 @@ thoughtful and almost happy towards the house of
 Frantz which Yvonne de Galais had once shown me
 empty, I saw from the distance, sweeping the doorstep,
 a sort of young housewife with a turned-down collar, an
-object of curiosity and excitement to several little cow-*herds
+object of curiosity and excitement to several little cowherds
 in their Sunday clothes on their way to Mass.
 
 <tb>
@@ -10038,7 +10038,7 @@ FOOTNOTES:
 [Footnote 1: French firemen carry rifles during drill, although the custom
 is now dying out in towns.]
 
-[Footnote 2: This is the traditional black overall worn by the French school-*children
+[Footnote 2: This is the traditional black overall worn by the French school-children
 in Alain-Fournier’s youth and still to be seen in villages,
 though it is not so much worn in towns. This detail, and others so
 typically French, must not deceive the reader as to the age of the
