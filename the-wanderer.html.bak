@@ -256,6 +256,11 @@ img.w100 {width: 100%;}
     text-indent: 0;
 }
 
+p + p {
+    text-indent: 1em;
+}
+
+
 footer p {
     text-align: right;
 }
@@ -264,6 +269,17 @@ footer p {
 
 .blackletter {
     font-family: Fraktur, Textur, "Old English Text MT", Schwabacher, Blackletter, "Olde English", "Old English Five", "Engravers Old English BT", "Collins Old English", "New Old English", UnifrakturMaguntia, serif
+}
+
+/* Headings */
+
+header p {
+    text-align: center;
+    text-indent: 0;
+}
+
+header + p {
+    margin-top: 2em;
 }
 
 /* Images */
@@ -1271,37 +1287,26 @@ E. Pilon, <i>Alain-Fournier</i> (1920).</p>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
 
-<div class="chapter">
-<p>
-  <span style="margin-left: 1.0em;">THE WANDERER</span><br>
-  <br>
-  <span style="margin-left: 1.0em;"><span class="smcap">Part I</span></span>
-</p>
-</div>
+<section id="halftitlepage" data-epub-type="halftitlepage bodymatter">
 
+<h2>THE WANDERER</h2>
 
-<p>[Illustration]</p>
-
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
-  <h2 class="nobreak" id="THE_WANDERER">
-    THE WANDERER
-    <br>
-    PART I
-  </h2>
-</div>
 
+<section id="part-1" data-epub-type="bodymatter part">
+
+<h2>Part I</h2>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
-  <h2 class="nobreak" id="CHAPTER_I">
-    CHAPTER I
-    <br>
-    THE BOARDER
-  </h2>
-</div>
 
+<section id="chapter-1-1" data-epub-type="bodymatter chapter">
+
+<header>
+    <h3>CHAPTER I</h3>
+    <p data-epub-type="title">THE BOARDER</p>
+</header>
 
 <p>He arrived at our home on a Sunday of November, 189.... I still say
 ‘our home,’ although the house no longer belongs to us. We left that
@@ -1534,20 +1539,18 @@ showing no fear....</p>
 ate with lowered head, paying no attention to the three pairs of eyes
 fixed upon him.</p>
 
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-2" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_13">[Pg 13]</span></p>
 
-
-  <h2 class="nobreak" id="CHAPTER_II">
-    CHAPTER II
-    <br>
-    AFTER FOUR O’CLOCK
-  </h2>
-</div>
-
+<header>
+    <h3>CHAPTER II</h3>
+    <p data-epub-type="title">AFTER FOUR O’CLOCK</p>
+</header>
 
 <p>Until then I had never loafed about in the streets with the other
 village boys. An affection of the hip from which I had suffered up to
@@ -1638,19 +1641,19 @@ silent onlooker.</p>
 <p>And it is there that everything began, about eight days before
 Christmas.</p>
 
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-3" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_17">[Pg 17]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_III">
-    CHAPTER III
-    <br>
-    I HAUNTED A BASKET-MAKER’S SHOP
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER III</h3>
+    <p data-epub-type="title">I HAUNTED A BASKET-MAKER’S SHOP</p>
+</header>
 
 
 <p>Rain had fallen all day; it did not stop till evening. The day had
@@ -1791,18 +1794,19 @@ of a basket-maker.’ ...</p>
 <p>And I have often thought of it since.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-4" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_22">[Pg 22]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_IV">
-    CHAPTER IV
-    <br>
-    THE ESCAPE
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER IV</h3>
+    <p data-epub-type="title">THE ESCAPE</p>
+</header>
 
 
 <p>At two o’clock in the afternoon next day, in the centre of the freezing
@@ -1932,18 +1936,19 @@ stands there, hat in hand, obstinate, motionless, like a man demanding
 justice.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-5" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_27">[Pg 27]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_V">
-    CHAPTER V
-    <br>
-    THE CART COMES BACK
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER V</h3>
+    <p data-epub-type="title">THE CART COMES BACK</p>
+</header>
 
 
 <p>When I had brought home my grandparents from the station and after
@@ -2070,18 +2075,19 @@ damp with the evening mist, talking with Millie in a very low voice,
 anxious and angry....</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-6" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_32">[Pg 32]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_VI">
-    CHAPTER VI
-    <br>
-    SOME ONE KNOCKS AT THE WINDOW
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER VI</h3>
+    <p data-epub-type="title">SOME ONE KNOCKS AT THE WINDOW</p>
+</header>
 
 
 <p>The fourth day was one of the coldest of that winter. From early
@@ -2269,18 +2275,19 @@ silence.</p>
 began to do his work.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-7" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_39">[Pg 39]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_VII">
-    CHAPTER VII
-    <br>
-    THE SILK WAISTCOAT
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER VII</h3>
+    <p data-epub-type="title">THE SILK WAISTCOAT</p>
+</header>
 
 
 <p>Our room was, as I have said, a big attic—half attic, half room. The
@@ -2473,18 +2480,19 @@ breath, as some one who has had a weight upon his heart for a long time
 and who is, at last, going to tell his secret....</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-8" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_47">[Pg 47]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_VIII">
-    CHAPTER VIII
-    <br>
-    THE ADVENTURE
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER VIII</h3>
+    <p data-epub-type="title">THE ADVENTURE</p>
+</header>
 
 
 <p>My friend did not tell me that night all that had happened to him on
@@ -2592,18 +2600,19 @@ him; then pride and the deep joy of having at last run away without
 premeditation....</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-9" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_51">[Pg 51]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_IX">
-    CHAPTER IX
-    <br>
-    A HALT
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER IX</h3>
+    <p data-epub-type="title">A HALT</p>
+</header>
 
 
 <p>Suddenly the mare slowed down as if her foot had stumbled in the dark;
@@ -2740,18 +2749,19 @@ second he hesitated on the threshold and so great was his indecision
 that he almost staggered. But he went out into the gloom of the yard.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-10" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_56">[Pg 56]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_X">
-    CHAPTER X
-    <br>
-    THE SHEEPFOLD
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER X</h3>
+    <p data-epub-type="title">THE SHEEPFOLD</p>
+</header>
 
 
 <p>To find where he was he climbed on the bank from which he had jumped.</p>
@@ -2834,18 +2844,19 @@ had fallen asleep again.... But next time he swore he would get up.
 To-morrow morning, perhaps!...</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-11" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_60">[Pg 60]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XI">
-    CHAPTER XI
-    <br>
-    THE MYSTERIOUS MANOR
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XI</h3>
+    <p data-epub-type="title">THE MYSTERIOUS MANOR</p>
+</header>
 
 
 <p>At dawn he began to walk again. But his swollen knee hurt him; he had
@@ -2998,19 +3009,19 @@ thought.</p>
 <p>But leaving his question without an answer, worn out with fatigue, he
 was soon asleep....</p>
 
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-12" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_66">[Pg 66]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XII">
-    CHAPTER XII
-    <br>
-    WELLINGTON’S ROOM
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XII</h3>
+    <p data-epub-type="title">WELLINGTON’S ROOM</p>
+</header>
 
 
 <p>It was night when he awoke. Chilled with cold he turned from side to
@@ -3102,19 +3113,19 @@ little ladies.’</p>
 friend Maloyau, of the kitchen department, will present the character
 of Harlequin and your humble servant that of tall Pierrot....’</p>
 
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-13" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_71">[Pg 71]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XIII">
-    CHAPTER XIII
-    <br>
-    THE STRANGE FESTIVAL
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XIII</h3>
+    <p data-epub-type="title">THE STRANGE FESTIVAL</p>
+</header>
 
 
 <p>As soon as they had disappeared, the schoolboy came out of his
@@ -3243,18 +3254,19 @@ been placed on trestles; while tablecloths had been spread and people
 of all kinds were dining with ceremony.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-14" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_76">[Pg 76]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XIV">
-    CHAPTER XIV
-    <br>
-    THE STRANGE FESTIVAL (<i>continuation</i>)
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XIV</h3>
+    <p data-epub-type="title">THE STRANGE FESTIVAL (<i>continuation</i>)</p>
+</header>
 
 
 <p>It was a meal spread in a great room with a low ceiling, like those
@@ -3415,18 +3427,19 @@ his own home during a beautiful evening and that this lovely unknown
 person playing the piano, close to him, was his wife.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-15" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_83">[Pg 83]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XV">
-    CHAPTER XV
-    <br>
-    THE MEETING
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XV</h3>
+    <p data-epub-type="title">THE MEETING</p>
+</header>
 
 
 <p>Next morning Meaulnes was one of the first to be ready. He put on, as
@@ -3694,18 +3707,19 @@ At last, in groups, the guests went back to the house to await in
 silence and anxiety the home-coming of the engaged couple.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-16" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_93">[Pg 93]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XVI">
-    CHAPTER XVI
-    <br>
-    FRANTZ DE GALAIS
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XVI</h3>
+    <p data-epub-type="title">FRANTZ DE GALAIS</p>
+</header>
 
 
 <p>The race had ended too soon. It was half-past four and still daylight
@@ -3899,18 +3913,19 @@ the door, he left this mysterious place which no doubt he was never
 again to see.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-1-17" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_100">[Pg 100]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XVII">
-    CHAPTER XVII
-    <br>
-    THE STRANGE FESTIVAL (<i>end</i>)
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XVII</h3>
+    <p data-epub-type="title">THE STRANGE FESTIVAL (<i>end</i>)</p>
+</header>
 
 
 <p>Already, night as it was, a string of vehicles wound slowly towards
@@ -4047,31 +4062,27 @@ festival, quitted the highroad and jolted silently off over the grass
 track. Now only the hat of the driver could be seen, dancing above the
 hedges....</p>
 
+</section>
+
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
-  <h2 class="nobreak" id="Part_II">
+
+
+<section id="part-2" data-epub-type="part">
+
+  <h2>
     <span class="smcap">Part II</span>
   </h2>
-</div>
-
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
-  <h2 class="nobreak" id="PART_II">
-    PART II
-  </h2>
-</div>
 
+<section id="chapter-2-1" data-epub-type="chapter">
 
-<hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
-  <h2 class="nobreak" id="CHAPTER_I_1">
-    CHAPTER I
-    <br>
-    THE GREAT GAME
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER I</h3>
+    <p data-epub-type="title">THE GREAT GAME</p>
+</header>
 
 
 <p>Wind and cold, rain or snow, the impossibility of making any long
@@ -4228,18 +4239,19 @@ all orderly and careful people, very uninquisitive by nature, said:
 I am going to bed; I’ll leave the lamp burning.’</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-2" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_114">[Pg 114]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_II_1">
-    CHAPTER II
-    <br>
-    WE FALL INTO AN AMBUSH
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER II</h3>
+    <p data-epub-type="title">WE FALL INTO AN AMBUSH</p>
+</header>
 
 
 <p>We went out over the snow in absolute silence. Meaulnes walked ahead,
@@ -4369,18 +4381,19 @@ quietly discussing all that had happened, like two brothers in arms on
 the evening of a lost battle....</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-3" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_119">[Pg 119]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_III_1">
-    CHAPTER III
-    <br>
-    THE BOHEMIAN AT SCHOOL
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER III</h3>
+    <p data-epub-type="title">THE BOHEMIAN AT SCHOOL</p>
+</header>
 
 
 <p>Waking up next morning was painful. At half-past eight, just as M.
@@ -4578,18 +4591,19 @@ on the previous evening, had treacherously attacked Meaulnes from
 behind and thrown him.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-4" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_127">[Pg 127]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_IV_1">
-    CHAPTER IV
-    <br>
-    WHICH DEALS WITH THE MYSTERIOUS MANOR
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER IV</h3>
+    <p data-epub-type="title">WHICH DEALS WITH THE MYSTERIOUS MANOR</p>
+</header>
 
 
 <p>During the afternoon the same distractions occurred again; all through
@@ -4775,18 +4789,19 @@ in whispers. Then, running out into the night to join his companion at
 the gate, he left us in a state of inexpressible agitation.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-5" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_134">[Pg 134]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_V_1">
-    CHAPTER V
-    <br>
-    THE MAN IN SAND-SHOES
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER V</h3>
+    <p data-epub-type="title">THE MAN IN SAND-SHOES</p>
+</header>
 
 
 <p>That night, about three o’clock, the innkeeper widow Delouche, who
@@ -4901,18 +4916,19 @@ which seemed to us the magic portal of the Land to which we had lost
 the way.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-6" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_139">[Pg 139]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_VI_1">
-    CHAPTER VI
-    <br>
-    A QUARREL BEHIND THE SCENES
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER VI</h3>
+    <p data-epub-type="title">A QUARREL BEHIND THE SCENES</p>
+</header>
 
 
 <p>The numerous disturbances and troubles of these last days prevented us
@@ -5035,18 +5051,19 @@ at the top rows began to call out: ‘Curtain! Curtain!’ and stamped
 their feet.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-7" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_144">[Pg 144]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_VII_1">
-    CHAPTER VII
-    <br>
-    THE BOHEMIAN TAKES OFF HIS BANDAGE
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER VII</h3>
+    <p data-epub-type="title">THE BOHEMIAN TAKES OFF HIS BANDAGE</p>
+</header>
 
 
 <p>At last, peering in slowly between the curtains, a face emerged,
@@ -5131,18 +5148,19 @@ as well as in the one reserved for the pony, the goat, and the
 performing birds, every one was tucked up and falling asleep.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-8" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_148">[Pg 148]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_VIII_1">
-    CHAPTER VIII
-    <br>
-    THE POLICE
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER VIII</h3>
+    <p data-epub-type="title">THE POLICE</p>
+</header>
 
 
 <p>We were obliged to join again the throng of people who were going
@@ -5215,18 +5233,19 @@ not that sum up the whole story of the poor devil? Thief and tramp on
 the one hand, a kind-hearted chap on the other....</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-9" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_151">[Pg 151]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_IX_1">
-    CHAPTER IX
-    <br>
-    IN SEARCH OF THE LOST TRAIL
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER IX</h3>
+    <p data-epub-type="title">IN SEARCH OF THE LOST TRAIL</p>
+</header>
 
 
 <p>The sun was breaking through the morning mist on our return: housewives
@@ -5452,18 +5471,19 @@ thought, and as if coming to an important decision. And that is all I
 can remember of that melancholy ending to a great day of defeat.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-10" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_160">[Pg 160]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_X_1">
-    CHAPTER X
-    <br>
-    WASHING-DAY
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER X</h3>
+    <p data-epub-type="title">WASHING-DAY</p>
+</header>
 
 
 <p>We had reckoned too soon on the coming of spring. On Monday evening
@@ -5588,18 +5608,19 @@ Thursday evening—with the clear feeling that the old carriage had
 borne away my youth forever.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-11" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_165">[Pg 165]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XI_1">
-    CHAPTER XI
-    <br>
-    I BETRAY HIM
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XI</h3>
+    <p data-epub-type="title">I BETRAY HIM</p>
+</header>
 
 
 <p>What was I to do!</p>
@@ -5750,18 +5771,19 @@ time listening to the light steps of the hunter upon the watch, in the
 dim distance of the lumber-rooms....</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-2-12" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_171">[Pg 171]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XII_1">
-    CHAPTER XII
-    <br>
-    THE THREE LETTERS FROM MEAULNES
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XII</h3>
+    <p data-epub-type="title">THE THREE LETTERS FROM MEAULNES</p>
+</header>
 
 
 <p>In all my life I have received only three letters from Meaulnes. They
@@ -5939,31 +5961,27 @@ that winter, snow fell, definitely burying the tale of our adventures,
 blurring every trail, blotting out the last traces. And I tried, as
 Meaulnes had asked me in his letter, to forget everything.</p>
 
+</section>
+
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
-  <h2 class="nobreak" id="Part_III">
-    <span class="smcap">Part III</span>
-  </h2>
-</div>
 
+<section id="part-3" data-epub-type="part">
 
-<hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
-  <h2 class="nobreak" id="PART_III">
-    PART III
-  </h2>
-</div>
+<h2><span class="smcap">Part III</span></h2>
 
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
-  <h2 class="nobreak" id="CHAPTER_I_2">
-    CHAPTER I
-    <br>
-    BATHING
-  </h2>
-</div>
+
+
+<section id="chapter-3-1" data-epub-type="chapter">
+
+
+<header>
+    <h3>CHAPTER I</h3>
+    <p data-epub-type="title">BATHING</p>
+</header>
 
 
 <p>The bad lads of the countryside thought it a lark to smoke cigarettes,
@@ -6134,18 +6152,19 @@ all hope, there had just opened out, as clear and easy as a familiar
 road, a path to the manor without a name.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-2" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_186">[Pg 186]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_II_2">
-    CHAPTER II
-    <br>
-    AT FLORENTIN’S
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER II</h3>
+    <p data-epub-type="title">AT FLORENTIN’S</p>
+</header>
 
 
 <p>Just as far as I had been an unhappy child, dreamy and retiring, so I
@@ -6453,19 +6472,19 @@ explain my prolonged absence, then, continuing my way, I meant, before
 the evening, to reach La Ferté d’Angillon and the home of my friend
 Augustin Meaulnes.</p>
 
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-3" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_198">[Pg 198]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_III_2">
-    CHAPTER III
-    <br>
-    THE GHOST
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER III</h3>
+    <p data-epub-type="title">THE GHOST</p>
+</header>
 
 
 <p>I had never been for a really long ride on a bicycle. This was my
@@ -6711,18 +6730,19 @@ can hardly interest you. I am talking of people you’ve never known....’</p>
 <p>And this time, like a coward, I made no reply.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-4" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_208">[Pg 208]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_IV_2">
-    CHAPTER IV
-    <br>
-    GREAT NEWS
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER IV</h3>
+    <p data-epub-type="title">GREAT NEWS</p>
+</header>
 
 
 <p>Next morning, when I reached the High Street, it was such fine holiday
@@ -6936,18 +6956,19 @@ her, in a slightly lowered voice, not to unpack his trunk—as his
 journey was perhaps only delayed....</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-5" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_216">[Pg 216]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_V_2">
-    CHAPTER V
-    <br>
-    THE COUNTRY OUTING
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER V</h3>
+    <p data-epub-type="title">THE COUNTRY OUTING</p>
+</header>
 
 
 <p>I had trouble to keep up with Meaulnes along the road to Vieux-Nançay.
@@ -7148,18 +7169,19 @@ surprising assurance and gravity:</p>
 <p>And she held out her hand to him.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-6" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_224">[Pg 224]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_VI_2">
-    CHAPTER VI
-    <br>
-    THE COUNTRY OUTING (<i>end</i>)
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER VI</h3>
+    <p data-epub-type="title">THE COUNTRY OUTING (<i>end</i>)</p>
+</header>
 
 
 <p>Newcomers drew near almost at once to greet Yvonne de Galais and the
@@ -7425,19 +7447,19 @@ beautiful children.</p>
 <p>And this was the evening on which, sobbing, he asked Mademoiselle de
 Galais to marry him.</p>
 
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-7" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_234">[Pg 234]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_VII_2">
-    CHAPTER VII
-    <br>
-    THE WEDDING DAY
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER VII</h3>
+    <p data-epub-type="title">THE WEDDING DAY</p>
+</header>
 
 
 <p>A Thursday, early in February, a fine icy Thursday evening with a
@@ -7531,19 +7553,19 @@ shoulder.</p>
 <p>I look at him. He beckons to me not to move; and he too, with bent head
 and knitted brow, stands listening.</p>
 
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-8" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_238">[Pg 238]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_VIII_2">
-    CHAPTER VIII
-    <br>
-    FRANTZ’S CALL
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER VIII</h3>
+    <p data-epub-type="title">FRANTZ’S CALL</p>
+</header>
 
 
 <p>Hou-ou!</p>
@@ -7703,18 +7725,19 @@ once, farther out, we spotted Augustin closing the shutters of the
 house, and we were struck by his strange behaviour.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-9" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_244">[Pg 244]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_IX_2">
-    CHAPTER IX
-    <br>
-    HAPPY PEOPLE
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER IX</h3>
+    <p data-epub-type="title">HAPPY PEOPLE</p>
+</header>
 
 
 <p>Later on I came to know in minute detail what had happened out there....</p>
@@ -7891,18 +7914,19 @@ awkward places, she smiling and hastening—towards the home they had
 for a moment forsaken.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-10" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_251">[Pg 251]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_X_2">
-    CHAPTER X
-    <br>
-    FRANTZ’S HOUSE
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER X</h3>
+    <p data-epub-type="title">FRANTZ’S HOUSE</p>
+</header>
 
 
 <p>I had to remain shut up in the school during the whole of the following
@@ -8107,18 +8131,19 @@ village children, whose laughter and shouts in this lonely spot made
 the small forsaken house appear more empty, more deserted than ever.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-11" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_260">[Pg 260]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XI_2">
-    CHAPTER XI
-    <br>
-    A TALK IN THE RAIN
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XI</h3>
+    <p data-epub-type="title">A TALK IN THE RAIN</p>
+</header>
 
 
 <p>August, the holiday month, took me away from the Sand Pit and the
@@ -8286,18 +8311,19 @@ up in my old enthusiasm and never wearied of talking to her, with deep
 friendship, of him who had forsaken us....</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-12" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_267">[Pg 267]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XII_2">
-    CHAPTER XII
-    <br>
-    THE BURDEN
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XII</h3>
+    <p data-epub-type="title">THE BURDEN</p>
+</header>
 
 
 <p>School was to begin again on the Monday. On Saturday evening about
@@ -8527,18 +8553,19 @@ that is left to me of the great adventure and of you, Yvonne de Galais,
 the woman so long sought—so loved....</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-13" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_276">[Pg 276]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XIII_1">
-    CHAPTER XIII
-    <br>
-    THE COMPOSITION TEST BOOK
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XIII</h3>
+    <p data-epub-type="title">THE COMPOSITION TEST BOOK</p>
+</header>
 
 
 <p>Not long afterwards, old M. de Galais took to his bed in the house full
@@ -8616,18 +8643,19 @@ in front of the fire, that I read these lines which explained so many
 things to me and of which I give here the exact copy....</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-14" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_280">[Pg 280]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XIV_1">
-    CHAPTER XIV
-    <br>
-    THE SECRET
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XIV</h3>
+    <p data-epub-type="title">THE SECRET</p>
+</header>
 
 
 <p>‘I passed once more under her window. The panes are always dusty and
@@ -8848,18 +8876,19 @@ his letters, with tragic embarrassment, he tried to justify himself to
 Valentine.</p>
 
 
+</section>
+
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-15" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_288">[Pg 288]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XV_1">
-    CHAPTER XV
-    <br>
-    THE SECRET (<i>continued</i>)
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XV</h3>
+    <p data-epub-type="title">THE SECRET (<i>continued</i>)</p>
+</header>
 
 
 <p>Then the journal began again.</p>
@@ -9085,19 +9114,19 @@ make it up.</p>
 <p>The last four pages which I have been able to put together give the
 narrative of this journey and of this last mistake....</p>
 
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="chapter-3-16" data-epub-type="chapter">
 
 <p><span class="pagenum" id="Page_296">[Pg 296]</span></p>
 
 
-  <h2 class="nobreak" id="CHAPTER_XVI_1">
-    CHAPTER XVI
-    <br>
-    THE SECRET (<i>concluded</i>)
-  </h2>
-</div>
+<header>
+    <h3>CHAPTER XVI</h3>
+    <p data-epub-type="title">THE SECRET (<i>concluded</i>)</p>
+</header>
 
 
 <p><i>August 25.</i> After a long search he found the house of Valentine
@@ -9236,18 +9265,18 @@ my friend François Seurel.’</p>
 <p>He must have hastily slipped the exercise-book under the others,
 relocked his old small schoolboy trunk and disappeared.</p>
 
+</section>
+
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="epilogue" data-epub-type="epilogue">
 
 <p><span class="pagenum" id="Page_302">[Pg 302]</span></p>
 
 
-  <h2 class="nobreak" id="EPILOGUE">
-    EPILOGUE
-  </h2>
-</div>
-
+  <h2 data-epub-type="title">EPILOGUE</h2>
 
 <p>Time passed on. I lost hope of ever seeing my friend again, and the
 days went by mournfully in the village school and sadly in the deserted
@@ -9380,15 +9409,15 @@ me. And already I could imagine him at night, wrapping his daughter in
 his cloak and setting out with her for new adventures.</p>
 
 
-<p>THE END</p>
+<p class="center">THE END</p>
 
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
-  <h2 class="nobreak" id="FOOTNOTES">
-    FOOTNOTES:
-  </h2>
-</div>
+
+<section id="notes" data-epub-type="backmatter endnotes">
+
+  <h2 data-epub-type="title">NOTES</h2>
 
 
 <div class="footnote"><p><a id="Footnote_1_1" href="#FNanchor_1_1" class="label">[1]</a> French firemen carry rifles during drill, although the
@@ -9458,6 +9487,8 @@ place of football and were apt to be played with the same violence.</p></div>
 <div class="footnote"><p><a id="Footnote_6_6" href="#FNanchor_6_6" class="label">[6]</a> No accurate translation can be found for these
 examinations, as every country has its own system. The French system is
 complicated and it is unnecessary to give here elaborate explanations.</p></div>
+
+</section>
 
 </body>
 </html>
