@@ -14,6 +14,9 @@ Pg. 124
 Pg. 137
     Add closing quote after "[...] have fired.’"
 
+Pg. 167
+    Preveranges -> Préveranges
+
 Pg 231
     My horse -> my horse
 
