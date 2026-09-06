@@ -248,6 +248,16 @@ img.w100 {width: 100%;}
     font-family:sans-serif, serif;
 }
 
+/* Blockquotes */
+
+blockquote {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+blockquote > header p span {
+    display: block;
+}
 
 /* Alignement */
 
@@ -263,6 +273,9 @@ p + p {
     text-indent: 1em;
 }
 
+p.continued {
+    text-indent: 0 !important;
+}
 
 footer p {
     text-align: right;
@@ -276,12 +289,12 @@ footer p {
 
 /* Headings */
 
-header p {
+section > header p {
     text-align: center;
     text-indent: 0;
 }
 
-header + p {
+section > header + p {
     margin-top: 2em;
 }
 
@@ -314,6 +327,29 @@ section > section + section {
     margin-top: 2em;
 }
 
+/* Poetry */
+
+div.poetry p {
+    text-align: left;
+    text-indent: 0;
+}
+
+div.poetry p > span {
+    display: block;
+    padding-left: 1em;
+    text-indent: -1em;
+}
+
+div.poetry p > span + br {
+    display: none;
+}
+
+div.poetry p > span.i1{
+    padding-left: 2em;
+    text-indent: -1em;
+}
+
+
 /* Text-transform */
 
 h2.hidden {
@@ -337,6 +373,7 @@ hr.asterisks::before {
   content: "* * * * * * *";
   display: block;
   text-align: center;
+  color: black;
 }
 
 /* ToC */
@@ -3881,20 +3918,29 @@ had looked, that very morning,<span class="pagenum" id="Page_98">[Pg 98]</span> 
 seemed changed already ... with this song, sung in chorus, which
 reached him in snatches:</p>
 
+<div class="poetry">
 <p>
-  <span style="margin-left: 1.0em;">Where has’t come from, little wanton?</span><br>
-  <span style="margin-left: 3.0em;">Your cap is in two</span><br>
-  <span style="margin-left: 3.0em;">Your hair all askew...</span>
+  <span>Where has’t come from, little wanton?</span>
+  <br>
+  <span class="i1">Your cap is in two</span>
+  <br>
+  <span class="i1">Your hair all askew...</span>
 </p>
+</div>
 
-<p>And this one, too:</p>
+<p class="continued">And this one, too:</p>
 
+<div class="poetry">
 <p>
-  <span style="margin-left: 1.0em;">My shoes are red ...</span><br>
-  <span style="margin-left: 1.0em;">Good-bye, my lover ...</span><br>
-  <span style="margin-left: 1.0em;">My shoes are red ...</span><br>
-  <span style="margin-left: 1.0em;">Good-bye forever!</span>
+  <span>My shoes are red ...</span>
+  <br>
+  <span>Good-bye, my lover ...</span>
+  <br>
+  <span>My shoes are red ...</span>
+  <br>
+  <span>Good-bye forever!</span>
 </p>
+</div>
 
 <p>As he reached the foot of the stairs leading to his isolated lodging,
 some one came down and bumped into him in the dark, saying: ‘Good-bye,
@@ -5814,9 +5860,11 @@ feel the same sadness as of old.</p>
 <p>The first arrived two days after he had left.</p>
 
 <blockquote>
-<p>
-  <span style="margin-left: 2.0em;"><span class="smcap">My dear François</span>,</span>
+<header>
+<p class="left">
+  <span class="smcap">My dear François,</span>
 </p>
+</header>
 
 <p>To-day, as soon as I got to Paris, I went in front of the house
 mentioned. I saw nothing. There was no one there. No one will ever be
@@ -5849,9 +5897,9 @@ still there, not having stirred in spite of the cold of the evening,
 and waiting, goodness knows for what or for whom. You see, Paris is
 full of fools like me.</p>
 
-<p>
-  <span style="margin-left: 2.0em;"><span class="smcap">Augustin</span></span>
-</p>
+<footer>
+  <p class="right"><span class="smcap">Augustin</span></p>
+</footer>
 </blockquote>
 
 <p>Time passed. I waited in vain for a word from Meaulnes all Easter
@@ -5866,11 +5914,13 @@ Admiral Meaulnes.</p>
 <p><span class="pagenum" id="Page_173">[Pg 173]</span></p>
 
 <blockquote>
-<p>
-  <span style="margin-left: 2.0em;"><i>June, 189..</i></span><br>
-  <br>
-  <span style="margin-left: 2.0em;"><span class="smcap">My dear Chap</span>,</span>
-</p>
+<header>
+  <p>
+    <span class="right"><i>June, 189..</i></span>
+    <br>
+    <span class="left smcap">My dear Chap,</span>
+  </p>
+</header>
 
 <p>This time all hope is gone. I have known it since yesterday evening.
 My grief, which I hardly felt at first, has been increasing ever
@@ -5969,9 +6019,9 @@ everything.</p>
 
   <hr class="asterisks">
 
-<p>
-  <span style="margin-left: 2.0em;">‘A. M.’</span>
-</p>
+<footer>
+  <p>‘A. M.’</p>
+</footer>
 </blockquote>
 
 <p>And this new winter proved as dead as the preceding one had been alive
@@ -6132,10 +6182,12 @@ some words and in shortening others, he related having seen, some years
 previously, in the tumble-down chapel of the old manor, a tombstone on
 which were carved the words:</p>
 
-<p>
-  <span style="margin-left: 4.0em;">Here lies Sir Galois, Knight,</span><br>
-  <span style="margin-left: 1.0em;">faithful to his God, his King and his Love.</span>
-</p>
+<blockquote>
+  <p class="center">
+    Here lies Sir Galois, Knight,<br>
+    faithful to his God, his King and his Love.
+  </p>
+</blockquote>
 
 <p>‘Well! I never!’ said M. Seurel, slightly shrugging his shoulders,
 ill at ease at the turn the conversation had taken, yet anxious
@@ -7327,12 +7379,17 @@ and belonged to some one taking cattle to water: the tune was rhythmic
 as a dance, but the man sang it with a drawl and dragged it as though
 it were some old sad ballad:</p>
 
-<p>
-  <span style="margin-left: 1.0em;">My shoes are red....</span><br>
-  <span style="margin-left: 1.0em;">Good-bye, my lover!</span><br>
-  <span style="margin-left: 1.0em;">My shoes are red....</span><br>
-  <span style="margin-left: 1.0em;">Good-bye for ever!...</span>
-</p>
+<div class="poetry">
+  <p>
+    <span>My shoes are red....</span>
+    <br>
+    <span>Good-bye, my lover!</span>
+    <br>
+    <span>My shoes are red....</span>
+    <br>
+    <span>Good-bye for ever!...</span>
+  </p>
+</div>
 
 <p>Meaulnes had raised his head to listen. It was actually one of the
 tunes which the belated peasants had sung that last evening of the fête
@@ -8412,7 +8469,7 @@ cheerfully to the Sand Pit. On the front door was pinned a notice which
 stopped my hand on its way to the bell.</p>
 
 <blockquote>
-<p><i>Please do not ring</i></p>
+    <p class="center"><i>Please do not ring</i></p>
 </blockquote>
 
 <p>I did not guess what it referred to. I knocked quite loud. I heard,
