@@ -256,6 +256,10 @@ img.w100 {width: 100%;}
     text-indent: 0;
 }
 
+footer p {
+    text-align: right;
+}
+
 /* Fonts */
 
 .blackletter {
@@ -279,8 +283,16 @@ img.logo {
     margin-bottom: 4em;
 }
 
+*.mt-2 {
+    margin-bottom: 2em;
+}
+
 *.mt-4 {
     margin-top: 4em;
+}
+
+section > section + section {
+    margin-top: 2em;
 }
 
 /* Text-transform */
@@ -625,20 +637,19 @@ h2.hidden {
 </nav>
 </section>
 
-
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
+
+<section id="introduction" data-epub-type="introduction frontmatter">
 
 <p><span class="pagenum" id="Page_vii">[Pg vii]</span></p>
 
 
-  <h2 class="nobreak" id="INTRODUCTION">
-    INTRODUCTION
-  </h2>
-</div>
+  <h2 data-epub:type="title">INTRODUCTION</h2>
+
+<section id="introduction-1"data-epub-type="chapter">
 
 
-<p>I</p>
+<h3>I</h3>
 
 <p>It is a high privilege to introduce the English translation of <i>Le
 Grand Meaulnes</i>, a rare pleasure, indeed, to present so exquisite a
@@ -712,8 +723,11 @@ at the centre of the revolutionary change in the orientation of the
 French literary spirit which took place during the first decade of the
 present century.</p>
 
+</section>
 
-<p>II</p>
+<section id="introduction-2" data-epub-type="chapter">
+
+<h3>II</h3>
 
 <p>Henri Fournier—to use the name by which he first comes before us—was
 born on October 3, 1886, at Chapelle-d’Angillon, a small place, to
@@ -910,8 +924,11 @@ than ever, and wrote to Rivière: ‘That was really the only being in the
 world who could have given me peace <span class="pagenum" id="Page_xix">[Pg xix]</span>and repose. It is now probable
 that I shall never achieve peace in this world.’</p>
 
+</section>
 
-<p>III</p>
+<section id="introduction-3" data-epub-type="chapter">
+
+<h3>III</h3>
 
 <p>We have gone a little ahead in the story of Fournier’s life. Another
 significant event belonged to the year 1905. From childhood he had felt
@@ -1100,8 +1117,11 @@ all of later date than Fournier’s disappearance.</p>
 key to these escapes into desired lands—and perhaps it is Death, after
 all.’</p>
 
+</section>
 
-<p>IV</p>
+<section id="introduction-4" data-epub-type="chapter">
+
+<h3>IV</h3>
 
 <p>There are people to whom <i>Le Grand Meaulnes</i> seems a simple and
 insignificant story, just as there are people who inhale in vain the
@@ -1234,9 +1254,9 @@ expression of this nostalgia of the soul we can perhaps nowhere find
 it so well expressed as in a book which may now be counted among the
 permanent human possessions, <i>Le Grand Meaulnes</i>.</p>
 
-<p>
-  <span style="margin-left: 1.0em;"><span class="smcap">Havelock Ellis</span></span>
-</p>
+<footer class="mt-2" role="presentation">
+<p class="smcap">Havelock Ellis</p>
+</footer>
 
 <blockquote>
 <p>This Introduction is mainly based on Jacques Rivière et
@@ -1244,6 +1264,10 @@ Alain-Fournier, <i>Correspondance 1905-1914</i> (1928), the
 Introduction by Rivière to <i>Miracles</i> (1924), and a booklet by
 E. Pilon, <i>Alain-Fournier</i> (1920).</p>
 </blockquote>
+
+</section>
+
+</section>
 
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
 
