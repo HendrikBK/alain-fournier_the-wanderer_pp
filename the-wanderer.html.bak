@@ -188,7 +188,7 @@ section > section + section {
 /* Poetry */
 
 div.poetry {
-    maring-left: 1em;
+    margin-left: 1em;
 }
 
 div.poetry p {
@@ -272,7 +272,7 @@ hr.asterisks::before {
 </head>
 <body>
 
-<section id="titlepage" data-epub:type="frontmatter titlepage">
+<section id="titlepage" data-epub-type="frontmatter titlepage">
 
   <p class="center">ALAIN-FOURNIER</p>
 
@@ -580,7 +580,7 @@ hr.asterisks::before {
 <p><span class="pagenum" id="Page_vii">[Pg vii]</span></p>
 
 
-  <h2 data-epub:type="title">INTRODUCTION</h2>
+  <h2 data-epub-type="title">INTRODUCTION</h2>
 
 <section id="introduction-1" data-epub-type="chapter">
 
@@ -9434,7 +9434,7 @@ complicated and it is unnecessary to give here elaborate explanations.</p></asid
 
 <section class="transnote" id="transcibers-notes" data-epub-type="backmatter">
 
-<h2 epub-epub-type="title">TRANSCRIBER’S NOTES</h2>
+<h2 epub-type-type="title">TRANSCRIBER’S NOTES</h2>
 
 <ul>
   <li>Clear typos and wrong punctuation were corrected.</li>
